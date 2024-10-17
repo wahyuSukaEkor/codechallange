@@ -17,7 +17,7 @@ const Navbar = () => {
             <img
               src="/image/logo.png"
               alt="EkorNime Studio"
-              className="w-auto h-10"
+              className="w-40 h-10"
             ></img>
           </a>
         </Link>
