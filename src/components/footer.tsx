@@ -11,6 +11,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
+                aria-label="Buka Halaman Facebook EkorNime Studio"
               >
                 <svg
                   className="w-6 h-6"
@@ -28,6 +29,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
+                aria-label="Buka Halaman Twitter EkorNime Studio"
               >
                 <svg
                   className="w-6 h-6"
@@ -45,6 +47,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
+                aria-label="Buka Halaman Instagram EkorNime Studio"
               >
                 <svg
                   className="w-6 h-6"

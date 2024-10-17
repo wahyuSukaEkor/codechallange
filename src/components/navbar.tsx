@@ -21,7 +21,7 @@ const Navbar = () => {
             ></img>
           </a>
         </Link>
-        <button className="block md:hidden text-gray-700" onClick={toggleMenu}>
+        <button className="block md:hidden text-gray-700" id="nav-bar" aria-label="Tombol Navigasi" onClick={toggleMenu}>
           <svg
             className="w-6 h-6"
             fill="none"
