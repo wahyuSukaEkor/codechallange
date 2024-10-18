@@ -75,7 +75,7 @@ export default async function CardRandom() {
             </p>
             <p className="text-sm text-gray-600">{p.phone}</p>
             <p className="text-sm text-gray-600">{p.email}</p>
-            <p className="text-sm text-gray-600">{pengalaman[index]}</p>
+            <p className="text-sm text-center text-gray-600">{pengalaman[index]}</p>
           </div>
         ))}
       </div>
